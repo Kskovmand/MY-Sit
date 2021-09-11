@@ -1,0 +1,155 @@
+body {
+    color: #405143;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+.profil {
+    width: 200px;
+    border-radius: 100%;
+    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+    image-rendering: 25%;
+    
+}
+h1 {
+    font-size: 5.625rem;
+    margin: 50px, auto, 0px, auto;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+    line-height: 0.5;
+}
+h2 {
+
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color:  #11999E;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #A8E7E9;  
+    border-width: 8px;
+    height:  0px;
+    width: 4%;
+    margin: 100px auto;
+ }
+p {
+    line-height: 2;
+}
+a:hover {
+    color: #EAF6F6;
+}
+
+.top-container {
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px; 
+}
+
+.middle-container {
+    margin: 100px 0;
+    
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+   
+}
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 40px;
+}
+.bottom-cloud {
+        position: absolute;
+        left: 400px;
+        bottom: 300px;
+}
+.footer-link {
+   color:  #11999E;
+   font-family: 'Montserrat', sans-serif;
+   margin: 10px 20px;
+   text-decoration: none;
+
+}
+.kontakt-besked {
+    width: 30%;
+    margin: 40px auto 60px;
+}
+.kids {
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.computer {
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+.pædagog {
+}
+.diplom { 
+    
+}
+.uddannet {
+    
+    width: 25%;
+    margin: auto;
+}
+
+ .bund-tekst {
+     color: #eaf6f6;
+     font-size: 0.75rem;
+     padding: 20px 0;
+ }
+ .BUTTON_QIP {
+    background: #EAF6F6;
+    background-image: -webkit-linear-gradient(top, #EAF6F6, #66BFBF);
+    background-image: -moz-linear-gradient(top, #EAF6F6, #66BFBF);
+    background-image: -ms-linear-gradient(top, #EAF6F6, #66BFBF);
+    background-image: -o-linear-gradient(top, #EAF6F6, #66BFBF);
+    background-image: -webkit-gradient(to bottom, #EAF6F6, #66BFBF);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    height: 18px;
+    line-height: 18px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    width: 150px;
+    font-size: 20px;
+    font-weight: 120;
+    padding: 10px;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_QIP:hover {
+    background: #66BFBF;
+    border: solid #66BFBF 1px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+ }
